@@ -37,5 +37,5 @@
 
 
 ## Contact
-Please contact ***Yingqian Wang*** (wangyingqian16@nudt.edu.cn) for any question about this work.
+Please contact ***Yingqian Wang*** (wangyingqian16@nudt.edu.cn) for any question about this work. 
 
