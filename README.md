@@ -15,8 +15,8 @@
 
 ## The *Mask Embedding* Approach
 ### <center><img src="https://raw.github.com/YingqianWang/DeOccNet/master/Figs/MaskEmbedding.png" width="720"></center>
-* The project is available ***[here](https://wyqdatabase.s3-us-west-1.amazonaws.com/Mask_embedding.zip)***.
-* Note: LFs in folders ***[LF_original_5](https://pan.baidu.com/s/1pvj-8b78yZelUwzLBXviIA)*** and ***[LF_original_15](https://pan.baidu.com/s/1cwRkSpl7qSysQb4nLNy2bw)*** can be download via ***Baidu Drive***.
+* Codes can be downloaded ***[here](https://wyqdatabase.s3-us-west-1.amazonaws.com/Mask_embedding.zip)***.
+* Note: LFs in folders ***[LF_original_5](https://pan.baidu.com/s/1pvj-8b78yZelUwzLBXviIA)*** and ***[LF_original_15](https://pan.baidu.com/s/1cwRkSpl7qSysQb4nLNy2bw)*** can be downloaded via ***Baidu Drive***.
 
 ## Datasets
 ### <center><img src="https://raw.github.com/YingqianWang/DeOccNet/master/Figs/Synscenes.png" width="800"></center>
