@@ -2,7 +2,7 @@
 # DeOccNet
 
 ***This is the repository of our WACV 2020 paper "DeOccNet: Learning to See Through Foreground Occlusions in Light Fields". <a href="https://arxiv.org/pdf/1912.04459.pdf">arXiv</a>*** <br><br>
-***Codes and datasets will be available soon.***
+***Codes will be available soon.***
 
 ## PyTorch implementation of *DeOccNet*
 ### <center><img src="https://raw.github.com/YingqianWang/DeOccNet/master/Figs/DeOccNet.png" width="800"></center>
