@@ -2,16 +2,29 @@
 # DeOccNet
 
 ***This is the repository of our WACV 2020 paper "DeOccNet: Learning to See Through Foreground Occlusions in Light Fields". <a href="https://arxiv.org/pdf/1912.04459.pdf">arXiv</a>*** <br><br>
-***Codes will be available soon.***
 
 ## PyTorch implementation of *DeOccNet*
 ### <center><img src="https://raw.github.com/YingqianWang/DeOccNet/master/Figs/DeOccNet.png" width="800"></center>
+***The project of DeOccNet can be downloaded [here]()***. 
 ### Requirements
-* pytorch (0.4), torchvision (0.2) (Note: The code is tested with python=3.6, cuda=9.0)
-* Matlab (For training/test data generation)
-### Train
+**Our DeOccNet can be implemented under the following requirements:**
+
+***Environment:***
+* python 3.7, cuda 9.2, cudnn 7.0, pytorch 1.3.0, torchvision 0.4.1;
+* numpy 1.16.4+mkl, opencv-python 4.1.0.25 (only used for test);
+* Matlab 2018a (For training/test data generation);
+
+***Hardware configuration:***
+* Nvdia GPU (trained on RTX2080Ti, 11GB Memory);
+* More than 500GB disk space to store training data (Here, an SSD is preferred);
+* More than 32GB RAM is preferred since we do not perform cropping or resizing during test;
 
 ### Test
+* 
+
+### Train
+
+
 
 ## The *Mask Embedding* Approach
 ### <center><img src="https://raw.github.com/YingqianWang/DeOccNet/master/Figs/MaskEmbedding.png" width="720"></center>
