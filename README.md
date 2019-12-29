@@ -12,7 +12,7 @@
 ***Environment:***
 * python 3.7, cuda 9.2, cudnn 7.0, pytorch 1.3.0, torchvision 0.4.1;
 * numpy 1.16.4+mkl, opencv-python 4.1.0.25 (only used for test);
-* Matlab 2018a (For training/test data generation);
+* Matlab 2018a (for training and test data generation);
 
 ***Hardware configuration:***
 * Nvdia GPU (trained on RTX2080Ti, 11GB Memory);
@@ -20,10 +20,14 @@
 * More than 32GB RAM is preferred since we do not perform cropping or resizing during test;
 
 ### Test
-* 
+* Prepare test LFs in folder ***Dataset*** following ***readme.txt***;
+* Run ***GenerateDataForTest.m*** to generate test data;
+* Execute ***test25.py*** or ***test75.py*** to implement DeOccNet for test;
 
 ### Train
-
+* Prepare training LFs in folder ***Dataset*** using the ***Mask Embedding*** approach;
+* Run ***GenerateDataForTraining.m*** to generate training data (over 300 GB);
+* Execute ***train.py*** to train DeOccNet on the generated data;
 
 
 ## The *Mask Embedding* Approach
