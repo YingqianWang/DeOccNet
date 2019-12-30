@@ -7,7 +7,6 @@
 ### <center><img src="https://raw.github.com/YingqianWang/DeOccNet/master/Figs/DeOccNet.png" width="800"></center>
 ***The project of DeOccNet can be downloaded [here]()***. 
 ### Requirements
-**Our DeOccNet can be implemented under the following requirements:**
 
 ***Environment:***
 * python 3.7, cuda 9.2, cudnn 7.0, pytorch 1.3.0, torchvision 0.4.1;
@@ -15,12 +14,12 @@
 * Matlab 2018a (for training and test data generation);
 
 ***Hardware configuration:***
-* Nvdia GPU (trained on RTX2080Ti, 11GB Memory);
+* Nvidia GPU (trained on RTX2080Ti, 11GB Memory);
 * More than 500GB disk space to store training data (Here, an SSD is preferred);
 * More than 32GB RAM is preferred since we do not perform cropping or resizing during test;
 
 ### Test
-* Prepare test LFs in folder ***Dataset*** following ***readme.txt***;
+* Prepare test LFs in folder ***Dataset***;
 * Run ***GenerateDataForTest.m*** to generate test data;
 * Execute ***test25.py*** or ***test75.py*** to implement DeOccNet for test;
 
