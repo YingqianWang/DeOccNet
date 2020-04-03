@@ -46,7 +46,7 @@
 ## Citiations
 * @InProceedings{DeOccNet,<br>
   author = {Wang, Yingqian and Wu, Tianhao and Yang, Jungang and Wang, Longguang and An, Wei and Guo, Yulan},<br>
-  title = {DeOccNet: Learning to See Through Foreground Occlusions in Light Fields},<br>
+  title = {{D}e{O}cc{N}et: Learning to See Through Foreground Occlusions in Light Fields},<br>
   booktitle = {Winter Conference on Applications of Computer Vision (WACV)},<br>
   month = {Mar},<br>
   year = {2020}<br>
