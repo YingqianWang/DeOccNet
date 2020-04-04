@@ -3,8 +3,6 @@
 
 ***This is the repository of our WACV 2020 paper "DeOccNet: Learning to See Through Foreground Occlusions in Light Fields". <a href="https://arxiv.org/pdf/1912.04459.pdf">arXiv</a>*** <br><br>
 
-[![Watch the video](Figs/VideoDeOccNet.jpg)](https://www.youtube.com/watch?v=vqHprbEFFis&feature=youtu.be)
-
 ## PyTorch implementation of *DeOccNet*
 ### <center><img src="https://raw.github.com/YingqianWang/DeOccNet/master/Figs/DeOccNet.png" width="800"></center>
 ***The project of DeOccNet can be downloaded [here](https://wyqdatabase.s3-us-west-1.amazonaws.com/DeOccNet_codes.rar)***. 
@@ -46,7 +44,7 @@
 ## Citiations
 * @InProceedings{DeOccNet,<br>
   author = {Wang, Yingqian and Wu, Tianhao and Yang, Jungang and Wang, Longguang and An, Wei and Guo, Yulan},<br>
-  title = {{D}e{O}cc{N}et: Learning to See Through Foreground Occlusions in Light Fields},<br>
+  title = {De{O}cc{N}et: Learning to See Through Foreground Occlusions in Light Fields},<br>
   booktitle = {Winter Conference on Applications of Computer Vision (WACV)},<br>
   month = {Mar},<br>
   year = {2020}<br>
