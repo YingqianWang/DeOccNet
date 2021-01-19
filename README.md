@@ -1,7 +1,7 @@
 
 ### *"DeOccNet: Learning to See Through Foreground Occlusions in Light Fields". <a href="https://arxiv.org/pdf/1912.04459.pdf">WACV 2020</a>* <br><br>
 
-### The project of *DeOccNet* can be downloaded  [*here*](https://wyqdatabase.s3-us-west-1.amazonaws.com/DeOccNet_codes.rar). 
+### The project of *DeOccNet* can be downloaded  [*here*](https://wyqdatabase.s3-us-west-1.amazonaws.com/DeOccNet_codes.rar). <br><br>
 
 ### Requirements：
 
