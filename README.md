@@ -1,10 +1,8 @@
 
-# DeOccNet
+### *"DeOccNet: Learning to See Through Foreground Occlusions in Light Fields". <a href="https://arxiv.org/pdf/1912.04459.pdf">WACV 2020</a>* <br><br>
 
-***This is the repository of our WACV 2020 paper "DeOccNet: Learning to See Through Foreground Occlusions in Light Fields". <a href="https://arxiv.org/pdf/1912.04459.pdf">arXiv</a>*** <br><br>
+### The project of *DeOccNet* can be downloaded  [*here*](https://wyqdatabase.s3-us-west-1.amazonaws.com/DeOccNet_codes.rar). 
 
-## PyTorch implementation of *DeOccNet*
-***The project of DeOccNet can be downloaded [here](https://wyqdatabase.s3-us-west-1.amazonaws.com/DeOccNet_codes.rar)***. 
 ### Requirements
 
 ***Environment:***
