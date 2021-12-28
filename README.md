@@ -44,5 +44,5 @@
  ```
 
 ### Contact:
-Please contact ***Yingqian Wang*** (wangyingqian16@nudt.edu.cn) for any question about this work. 
+Please contact [yingqian.wang@outlook.com](yingqian.wang@outlook.com) for any question about this work. 
 
